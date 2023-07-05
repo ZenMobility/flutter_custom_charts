@@ -1,0 +1,1 @@
+This repo is a collection of Re-usable  flutter custom widgets. These charts have additional custom behaviour which is not readily available in popular flutter charts libraries.

@@ -1,1 +1,1 @@
-This repo is a collection of Re-usable  flutter custom widgets. These charts have additional custom behaviour which is not readily available in popular flutter charts libraries.
+This repo is a collection of Re-usable  flutter custom charts. These charts have additional custom behaviour which is not readily available in popular free flutter charts libraries such as fl_charts, charts_painter, pie_chart.
